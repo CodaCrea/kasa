@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kasa/static/css/main.6f9da923.css",
+    "main.js": "/kasa/static/js/main.e9d13e14.js",
+    "static/media/mountain.webp": "/kasa/static/media/mountain.dbebb0c0d46b5a022fc9.webp",
+    "static/media/cliff.webp": "/kasa/static/media/cliff.88b5a5470471684cf802.webp",
+    "static/media/404.webp": "/kasa/static/media/404.00046aa507d8ef7cb0db.webp",
+    "static/media/logo_header.webp": "/kasa/static/media/logo_header.3e1952fcfdcb26b7e381.webp",
+    "static/media/logo_footer.webp": "/kasa/static/media/logo_footer.8e66b4d0df16e25a2429.webp",
+    "index.html": "/kasa/index.html",
+    "static/media/star_full.webp": "/kasa/static/media/star_full.26d65eea491114ca5ff3.webp",
+    "static/media/arrow_left.webp": "/kasa/static/media/arrow_left.5c0532d1fa3425b2666f.webp",
+    "static/media/arrow_right.webp": "/kasa/static/media/arrow_right.99f6b163599c125781be.webp",
+    "static/media/arrow_collapse.webp": "/kasa/static/media/arrow_collapse.86f12bddb78f8de74369.webp",
+    "main.6f9da923.css.map": "/kasa/static/css/main.6f9da923.css.map",
+    "main.e9d13e14.js.map": "/kasa/static/js/main.e9d13e14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9da923.css",
+    "static/js/main.e9d13e14.js"
+  ]
+}
