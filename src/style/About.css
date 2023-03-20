@@ -1,0 +1,59 @@
+.container_about {
+  margin: 45px 100px 0;
+}
+
+.bloc_about-collapse {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.bloc_about-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 223px;
+  width: 100%;
+  background-image: linear-gradient(
+      to left,
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url(../assets/img/mountain.webp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container_about {
+    margin: 45px 50px;
+  }
+
+  .bloc_about-collapse {
+    width: 100%;
+  }
+}
+
+@media (min-width: 810px) and (max-width: 1024px) {
+  .bloc_about-collapse {
+    min-height: 723px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 810px) {
+  .bloc_about-collapse {
+    min-height: 381px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container_about {
+    margin: 45px 20px 0;
+  }
+
+  .bloc_about-collapse {
+    width: 100%;
+    min-height: 258px;
+  }
+}

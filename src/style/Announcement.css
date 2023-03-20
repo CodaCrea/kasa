@@ -1,0 +1,51 @@
+.bloc_announcement-img {
+  position: relative;
+  height: 340px;
+  width: 340px;
+}
+
+.bloc_announcement-img img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  filter: brightness(0.6);
+}
+
+.bloc_announcement-title {
+  display: flex;
+  margin-right: 20px;
+  padding: 5px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+.bloc_announcement-title h2 {
+  font-size: 18px;
+  color: #fff;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .bloc_announcement-img {
+    width: 100%;
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container_announcement {
+    background-color: #fff;
+    margin: 22px 0 0;
+    padding: 0;
+  }
+
+  .bloc_announcement-img {
+    height: 255px;
+    width: auto;
+  }
+
+  .bloc_announcement-title {
+    bottom: 15px;
+  }
+}
