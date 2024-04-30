@@ -1,5 +1,5 @@
 # Kasa 🏡
-[Voir le site](https://devveric.github.io/kasa)
+[Voir le site](https://codacrea.github.io/kasa)
 
 ## Description :
 Ceci est un projet réalisé dans le cadre du programme de formation Développeur Front-end JavaScript React chez OpenClassrooms
